@@ -11,11 +11,11 @@ A simple dice game built with HTML, CSS, and JavaScript. This project demonstrat
 💻 Fully responsive design.
 
 ## 🛠️ Technologies Used
-### HTML: For structuring the web page.
+HTML: For structuring the web page.
 
-### CSS: For styling the game interface.
+CSS: For styling the game interface.
 
-### JavaScript: For game logic and interactivity.
+JavaScript: For game logic and interactivity.
 
 ## ✨ How It Works
 1. When the page loads, two dice are rolled.

@@ -3,14 +3,19 @@ A simple dice game built with HTML, CSS, and JavaScript. This project demonstrat
 
 ## 🚀 Features
 🎯 Roll two dice and compete to win.
+
 🏆 Displays the winner based on the dice roll.
+
 🎉 Refresh the page to play again.
+
 💻 Fully responsive design.
 
 ## 🛠️ Technologies Used
-HTML: For structuring the web page.
-CSS: For styling the game interface.
-JavaScript: For game logic and interactivity.
+### HTML: For structuring the web page.
+
+### CSS: For styling the game interface.
+
+### JavaScript: For game logic and interactivity.
 
 ## ✨ How It Works
 1. When the page loads, two dice are rolled.
